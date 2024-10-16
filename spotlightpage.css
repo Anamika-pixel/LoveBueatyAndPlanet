@@ -1,0 +1,32 @@
+.second-home-image{
+    height: 400px;
+    width: 1200px;
+    margin-left: 130px; 
+    /* margin-right: 40px; */
+    margin-top: 30px;
+    border: 1px solid rgb(0, 0, 0);
+}
+#second-home-images{
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+.whatsetsapart{
+    height: 300px;
+    width: 200px;
+    float: left;
+    margin-left: 15px;
+}
+.whatsetsapart1{
+    height: 300px;
+    width: 200px;
+    float: left;
+    margin-left: 90px;
+}
+.what-sets-apart-images{
+    height: 200px;
+    width: 200px;
+}
+.sets{
+    font-family: "Open Sans", sans-serif;
+}

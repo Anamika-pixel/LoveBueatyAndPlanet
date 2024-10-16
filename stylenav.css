@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Josefin Slab", serif;
+}
+#navbar{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap; 
+    position: fixed;
+}
+.nav-image{
+    margin-left: 70px;
+    width: 300px;
+    display: flex;
+}
+.nav-content{
+    color: black;
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+}
+.nav-contents{
+    text-decoration: none;
+}
+.listing-contents{
+    float: right;
+    line-height: 140px;
+      display: flex;
+     flex-wrap: wrap;  
+}

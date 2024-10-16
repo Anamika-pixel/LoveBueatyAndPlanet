@@ -1,0 +1,95 @@
+.trending1{
+    height: 450px;
+    width: 300px;
+    background-color: black;
+    border: 2px solid white;
+    float: left;
+    border-radius: 15px;
+    margin-left: 95px;
+}
+.trending{
+    height: 450px;
+    width: 300px;
+    background-color: black;
+    border: 2px solid white;
+    float: left;
+    border-radius: 15px;
+    margin-left: 15px;
+}
+#heading-trending{
+    padding-left: -100px;
+}
+#customer-head{
+    height: 30px;
+    width: 100%;
+}
+#customer-body{
+    height: 350px;
+    width: 100%;
+}
+.customerlove-image{
+    height: 250px;
+    width: 450px;
+    float: left;
+    margin-left: 20px;
+}
+.customerlove-image1{
+    height: 250px;
+    width: 450px;
+    float: left;
+    margin-left: 30px;
+}
+.customer-feed{
+    height: 250px;
+    width: 450px;
+}
+#discover-story{
+    height: 500px;
+    width: 100%;
+}
+.discover-image{
+    height: 400px;
+    width: 1300px;
+    margin: 40px 0px 0px 80px;
+}
+#beauty-archives{
+    height: 300px;
+    width: 100%;
+}
+.beauty-archives{
+    height: 300px;
+    width: 325px;
+    float: left;
+    margin-left: 10px;
+}
+.beauty-archives1{
+    height: 300px;
+    width: 325px;
+    float: left;
+    margin-left: 50px;
+}
+.footer1{
+    height: 400px;
+    width: 250px;
+    float: left;
+
+}
+.footer{
+    height: 400px;
+    width: 225px;
+    float: left;
+
+}
+.footer6{
+    height: 400px;
+    width: 250px;
+    float: left;
+}
+.footer-div{
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-left: 30px;
+}
+
+
